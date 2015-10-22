@@ -1,1 +1,2 @@
-This is my readme
+# learning
+A project for learning technologies
